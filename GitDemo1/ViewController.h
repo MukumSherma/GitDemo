@@ -19,7 +19,7 @@
 
 //HI 4
 
--(void)findMukum;
+-(void)findMukumSherma;
 
 @end
 
