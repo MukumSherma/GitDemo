@@ -164,7 +164,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0640;
-				ORGANIZATIONNAME = mukum;
+				ORGANIZATIONNAME = " limbu";
 				TargetAttributes = {
 					6C735B611B99508C00ED4D9A = {
 						CreatedOnToolsVersion = 6.4;
@@ -416,6 +416,7 @@
 				6C735B871B99508C00ED4D9A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6C735B881B99508C00ED4D9A /* Build configuration list for PBXNativeTarget "GitDemo1Tests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +425,7 @@
 				6C735B8A1B99508C00ED4D9A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
